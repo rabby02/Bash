@@ -1,0 +1,11 @@
+I am Yasin Rabby;
+public class main
+{
+public static void mains(String[]args)
+{
+
+System.out.println("Hello world")
+
+}
+
+}
